@@ -15,7 +15,8 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
 # Load Food-101 class names for MobileNet from info JSON
-with open('models/food101_mobilenet_MOBILENET_info.json', 'r') as f:
+info_path = os.path.join(os.path.dirname(__file__), 'models', 'food101_mobilenet_MOBILENET_info.json')
+with open(info_path, 'r') as f:
     mobilenet_info = json.load(f)
     FOOD101_CLASS_NAMES = mobilenet_info['classes']
 
