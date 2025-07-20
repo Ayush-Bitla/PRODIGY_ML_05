@@ -22,8 +22,8 @@ Below are sample result plots showing the model's accuracy during training and t
 
 ## 🚀 Live Demo
 
-Access the live Streamlit app here (if deployed):  
-👉 [Food Calorie Estimator App](#)
+Access the live Streamlit app here:
+👉 [Food Calorie Estimator App](https://food-calories-estimator.streamlit.app/)
 
 ---
 

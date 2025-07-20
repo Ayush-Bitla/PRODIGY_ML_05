@@ -4,7 +4,7 @@ import torch.nn as nn
 from torchvision import transforms, models
 from PIL import Image
 import numpy as np
-from calorie_mapping import CALORIE_DICT
+from model.calorie_mapping import CALORIE_DICT
 # Add Keras/TensorFlow imports
 import tensorflow as tf
 from tensorflow.keras.models import load_model
