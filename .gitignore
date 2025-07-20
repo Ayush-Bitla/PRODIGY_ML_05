@@ -25,6 +25,7 @@ models/*.png
 !models/mobilenet_accuracy_curve.png
 !models/food101_mobilenet_MOBILENET_confusion_matrix.png
 models/*.json
+!models/food101_mobilenet_MOBILENET_info.json
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
