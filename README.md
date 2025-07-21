@@ -4,17 +4,17 @@ A modern web app for food image classification and calorie/macronutrient estimat
 
 ---
 
-## 🎯 Project Overview
-
-This project implements a food recognition system that classifies food images into 101 categories (Food-101 dataset) using a MobileNetV3-based deep learning model. The app provides calorie estimates and a dynamic breakdown of protein, fat, and carbohydrate calories per 100g serving. Built with PyTorch, TensorFlow/Keras, and Streamlit.
-
----
-
 ## 🎥 Demo Video
 
 See the app in action:
 
 ![Food Calorie Estimator Demo](models/FoodCalorieEstimatorDemo.gif)
+
+---
+
+## 🎯 Project Overview
+
+This project implements a food recognition system that classifies food images into 101 categories (Food-101 dataset) using a MobileNetV3-based deep learning model. The app provides calorie estimates and a dynamic breakdown of protein, fat, and carbohydrate calories per 100g serving. Built with PyTorch, TensorFlow/Keras, and Streamlit.
 
 ---
 
